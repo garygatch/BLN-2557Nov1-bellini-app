@@ -1,0 +1,15 @@
+.text-danger{
+    color: red;
+}
+.bg-primary{
+    background-color: dodgerblue;
+}
+.bg-secondary{
+    background-color: aquamarine;
+}
+.text-underline{
+    text-decoration: underline;
+}
+.aaa{
+    font-weight: 800;
+}
