@@ -8,15 +8,13 @@
       "script": ""
     },
     "modules": [],
-    "properties": {
-      "version": "1.0.0-SNAPSHOT"
-    },
-    "environments": [],
-    "themes": [],
     "auth": {
       "enabled": false,
       "mockedUserAccounts": []
-    }
+    },
+    "environments": [],
+    "properties": {},
+    "themes": []
   },
   "externalScripts": [],
   "externalStylesheets": []
